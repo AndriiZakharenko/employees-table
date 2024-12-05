@@ -1,25 +1,10 @@
-1. Replace `<your_account>` with your Github username in the link
-    - [DEMO LINK](https://<your_account>.github.io/js_employees_table_DOM/)
-2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
-    - Run `npm run test` command to test your code;
-    - Run `npm run test:only -- -n` to run fast test ignoring linter;
-    - Run `npm run test:only -- -l` to run fast test with additional info in console ignoring linter.
-
 ### Task: Employees table
 
-Dear mate,
-this is the final task of JS Advanced course. Apply all the acquired skills and demonstrate what you are capable of!
-
-Let's get started. Briefly about the tasks:
 1. Implement table sorting by clicking on the title (in two directions).
 2. When user clicks on a row, it should become selected.
 3. Write a script to add a form to the document. Form allows users to add new employees to the spreadsheet.
 4. Show notification if form data is invalid (use notification from the previous tasks).
 5. Implement editing of table cells by double-clicking on it. (optional)
-
-As always, all the necessary styles have already been written for you, you do not need to change the layout or styles in this task.
-
-Let's move on to the requirements.
 
 Start table:
 ![Preview](./src/images/preview.png)
@@ -72,4 +57,6 @@ Start table:
 Expected result of your code:
 ![Result](./src/images/result.png)
 
-Good luck. We believe in you!
+## Demo Links
+
+- [DEMO LINK](https://AndriiZakharenko.github.io/js_employees_table_DOM/)
